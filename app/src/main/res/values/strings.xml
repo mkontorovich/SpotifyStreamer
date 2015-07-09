@@ -3,5 +3,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="artist">Artist</string>
-    <string name="text">Filler text</string>
+    <string name="text">Filler text filler text</string>
+    <string name="artist_hint">Artist</string>
 </resources>
